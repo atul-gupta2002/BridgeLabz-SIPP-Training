@@ -1,0 +1,8 @@
+/bin/
+.classpath
+.settings
+## VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
