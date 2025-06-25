@@ -8,10 +8,12 @@ class Circle {
 
 
     double calculateArea() {
+
         return Math.PI * radius * radius;
     }
 
     double calculateCircumference() {
+
         return 2 * Math.PI * radius;
     }
 
